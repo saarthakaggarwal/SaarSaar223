@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SaarSaar223
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in Machine Learning and Full Stack Development
 - 📫 How to reach me saggarwal29@wisc.edu
 
 <!---
